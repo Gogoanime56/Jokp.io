@@ -1,0 +1,67 @@
+h1{
+  top: 50%;
+  left: 50%;
+  color: #000000;
+}
+body{
+  background: #FF6B23;
+}
+
+.topleft {
+  position: absolute;
+  top: 1000px;
+  left: 376px;
+  font-size: 28px;
+  color: #8500FF;
+}
+.phone{
+   position: absolute;
+  top: 1100px;
+  left: 9px;
+  font-size: 28px;
+  width: 100%;
+  height: auto;
+  opacity: 0.4;
+}
+
+.clickme {
+    background-color: #EEEEEE;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.danger {
+    background-color:#FF0040;
+    color: #FFFFFF;
+}
+
+.danger:hover {
+    background-color:#EB003B;
+    color: #42445A;
+}
+
+.cil1{
+  background-color: #EEEEEE;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+  position: absolute;
+  top: 609px;
+  left: 19px;
+  font-size: 18px;
+}
+.cil1 {
+    background-color:#FF0040;
+    color: #FFFFFF;
+}
+
+.cil1:hover {
+    background-color:#EB003B;
+    color: #42445A;
+}
+
